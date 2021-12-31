@@ -13,8 +13,8 @@ To build, you will need:
 
 You can build this project just do:
 
-- clone branch *main* with *git clone https://github.com/yuperfilev/Email-reader-mobile-app.git*
-- *cd Email-reader-mobile-app*
-- *ns build andoid* 
+- clone branch main with git clone https://github.com/yuperfilev/Email-reader-mobile-app.git
+- cd Email-reader-mobile-app
+- ns build andoid
 
 ```
