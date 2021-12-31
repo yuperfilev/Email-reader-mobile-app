@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Email-reader page
 
-You can use the [editor on GitHub](https://github.com/yuperfilev/Email-reader-mobile-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![CgsA3chq8j8](https://user-images.githubusercontent.com/96861838/147818052-0b224a56-31ed-4c56-a71a-52372d895a33.jpg)
+![Aafsw3asd1](https://user-images.githubusercontent.com/96861838/147818058-c758140d-f534-450d-b989-242cf9d29f00.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can use this application to collect emails from various mailboxes that support IMAP access and listen to emails for the last 24 hours
 
 ```markdown
-Syntax highlighted code block
+To build, you will need:
 
-# Header 1
-## Header 2
-### Header 3
+- Node.js https://nodejs.org/
+- NativeScript CLI npm install -g nativescript
 
-- Bulleted
-- List
+You can build this project just do:
 
-1. Numbered
-2. List
+- clone branch *main* with *git clone https://github.com/yuperfilev/Email-reader-mobile-app.git*
+- *cd Email-reader-mobile-app*
+- *ns build andoid* 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuperfilev/Email-reader-mobile-app/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
