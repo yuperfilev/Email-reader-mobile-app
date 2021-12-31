@@ -1,5 +1,10 @@
 # Email-reader-mobile-app
 
+![CgsA3chq8j8](https://user-images.githubusercontent.com/96861838/147818052-0b224a56-31ed-4c56-a71a-52372d895a33.jpg)
+![Aafsw3asd1](https://user-images.githubusercontent.com/96861838/147818058-c758140d-f534-450d-b989-242cf9d29f00.jpg)
+
+
+
 ## Андроид приложение для сбора почты и прослушивания сообщений за последние 24 часа.
 
 # Структура проекта:
