@@ -19,7 +19,7 @@
 Для сборки проекта необходимо установить Node.js и NativeScript CLI
 - Ссылка на Node.js https://nodejs.org/
 
-После установки Node.js вводим следующую команду для установки NativeScriot CLI
+После установки Node.js вводим следующую команду для установки NativeScript CLI
 - `npm install -g nativescript`
 
 Чтобы собрать приложение вводим следующую команду
